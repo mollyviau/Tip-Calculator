@@ -1,0 +1,12 @@
+h1 {
+    display: inline-block;
+}
+
+.container {
+    text-align: center;
+}
+
+.col {
+    text-align: left;
+    margin-bottom: 1%;
+}
